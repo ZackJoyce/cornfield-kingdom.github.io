@@ -1,0 +1,9 @@
+{
+  "name": "cornfield-kingdom.github.io",
+  "version": "1.0.0",
+  "description": "Amazing website",
+  "main": "index.js",
+  "repository": "git@github.com:ZackJoyce/cornfield-kingdom.github.io.git",
+  "author": "Zachary Joyce",
+  "license": "MIT"
+}
