@@ -3,7 +3,10 @@ body {
 }
 
 img {
-    width: 50%;
+    width: 25%;
+}
+a {
+    display: block;
 }
 
 /*# sourceMappingURL=/style.a11e3109.css.map */
