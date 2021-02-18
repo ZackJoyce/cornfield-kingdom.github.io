@@ -9,12 +9,13 @@
   "scripts": {
     "start": "parcel index.html",
     "prebuild-dev": "shx rm -rf dist/*",
-    "build-dev": "parcel build ./src/index.html --no-minify --public-url ./",
+    "build-dev": "parcel build index.html --no-minify --public-url ./",
     "prebuild": "shx rm -rf dist/*",
-    "build": "parcel build ./src/index.html --public-url ./",
+    "build": "parcel build index.html --public-url ./",
     "push-gh-pages": "push-dir --dir=dist --branch=gh-pages --cleanup --verbose"
   },
   "devDependencies": {
+    "cssnano": "^4.1.10",
     "eslint": "^7.20.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-plugin-import": "^2.22.1",
