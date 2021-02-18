@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,KACI,iBACJ,CAEA,IACI,SACJ,CACA,EACI,aACJ","file":"style.e1c04ea3.css","sourceRoot":"..","sourcesContent":["body {\n    text-align: center;\n}\n\nimg {\n    width: 25%;\n}\na {\n    display: block;\n}"]}
