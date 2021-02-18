@@ -24,6 +24,6 @@
     "shx": "^0.3.2"
   },
   "staticFiles": {
-    "staticPath": "CNAME"
+    "staticPath": "static/CNAME"
  }
 }
