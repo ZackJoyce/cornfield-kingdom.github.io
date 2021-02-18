@@ -20,6 +20,10 @@
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-vue": "^7.6.0",
+    "parcel-plugin-static-files-copy": "^2.5.1",
     "shx": "^0.3.2"
-  }
+  },
+  "staticFiles": {
+    "staticPath": "CNAME"
+ }
 }
